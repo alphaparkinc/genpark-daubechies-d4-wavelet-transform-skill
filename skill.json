@@ -1,0 +1,17 @@
+{
+  "name": "genpark-daubechies-d4-wavelet-transform-skill",
+  "version": "1.0.0",
+  "description": "Daubechies D4 discrete wavelet transform (DWT) engine implementing 4-tap quadrature mirror filters for multi-resolution signal decomposition.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "wavelet-transform",
+    "daubechies-d4",
+    "multiresolution-analysis",
+    "signal-compression",
+    "dsp"
+  ],
+  "dependencies": []
+}
